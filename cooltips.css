@@ -3,11 +3,11 @@
 }
 
 .coolwrap:hover .cooltip {
-  visibility: visible;
+  display: block;
 }
 
 .cooltip {
-  visibility: hidden;
+  display: none;
   position: absolute;
   z-index: 10;
   bottom: 110%;
